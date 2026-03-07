@@ -28,4 +28,10 @@ The game was developed as my final project for CS15 at Brown University.
    java andrieste.App
    ```
 
-   
+## Gameplay
+
+[![Gameplay Video](https://img.youtube.com/vi/Qe5eLSNBbMg/0.jpg)](https://www.youtube.com/watch?v=Qe5eLSNBbMg)
+
+## Controls
+
+![Controls](homeImages/howToPlay.png)
